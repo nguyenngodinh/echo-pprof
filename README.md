@@ -6,7 +6,7 @@ A wrapper for [Echo web framework](https://github.com/labstack/echo) to use `net
 ## Install
 
 ```sh
-go get -u github.com/sevenNt/echo-pprof
+go get -u github.com/nguyenngodinh/echo-pprof
 ```
 
 ## Usage
